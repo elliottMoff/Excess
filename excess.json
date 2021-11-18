@@ -285,7 +285,7 @@
     },
     "dnsServiceIP": {
       "type": "string",
-      "defaultValue": "10.104.0.4"
+      "defaultValue": "10.0.0.10"
     },
     "dockerBridgeCidr": {
       "type": "string",
